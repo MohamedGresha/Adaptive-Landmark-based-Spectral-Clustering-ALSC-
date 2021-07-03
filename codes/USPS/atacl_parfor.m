@@ -10,6 +10,10 @@ function [bestk,bestw,bestACL,bestclusterid,NN]=atacl_parfor(data)
 
 % Ahmed Tool Box
 % MAR. 2013
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
 
 [n,d]=size(data);
 % clusterid=zeros(1,n);
