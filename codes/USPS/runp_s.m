@@ -7,9 +7,9 @@
 % Updated by 
 % Mohamed Gresha
 % 2021
-
-
-% Pima data set
+%
+%
+% 
 kopt=[];
 NMI_vec=[];
 bestk_vec=[];
