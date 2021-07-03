@@ -6,6 +6,10 @@ function [bestk,bestw,ACL,clusterid,NMI,NN]=demo16(k)
 
 %Ahmed Rafat
 %MAR. 13
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
 
 load DATA;
 
