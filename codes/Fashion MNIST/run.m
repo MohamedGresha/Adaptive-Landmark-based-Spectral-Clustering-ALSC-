@@ -1,3 +1,8 @@
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
+%
 base_path = 'D:\1-Paper\Paper4\11\Fashion MNIST\0';
 load ('DATA.mat');
 
